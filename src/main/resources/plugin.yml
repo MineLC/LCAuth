@@ -1,0 +1,3 @@
+name: LCAuth
+version: 2.0
+main: lc.auth.LCAuth
